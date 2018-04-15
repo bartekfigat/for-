@@ -64,7 +64,9 @@ ol {
   padding: 0;
 }
 
-
+ div.counter {
+     background-color: grey;
+ }
 .lens {
   display: inline-block;
   width: 0;
